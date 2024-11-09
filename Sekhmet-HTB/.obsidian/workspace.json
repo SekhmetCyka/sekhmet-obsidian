@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "51c5958f3634863f",
+    "type": "split",
+    "children": [
+      {
+        "id": "990968f1cbb91750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46cd70f7e74247d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e86c44b5be069ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "c52599ba37b446f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1b84370d446ffbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "33394f9092ea6aaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Working with web services",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b473e9138a649da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9023d64a93fdd933",
+    "type": "split",
+    "children": [
+      {
+        "id": "04160cef94b5b73a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "105e9eddaef8584d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b925aff2ffd26edb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cec03e4dfa8d4b3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c71b4b0ba6ee5e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "46cd70f7e74247d8",
+  "lastOpenFiles": [
+    "HTB ACADEMY/Linux Fundamentals/SysInfo commands.md",
+    "HTB ACADEMY/Linux Fundamentals/Service and Process Management.md",
+    "HTB ACADEMY/Linux Fundamentals/Package management.md",
+    "HTB ACADEMY/Linux Fundamentals/Navigation Commands Linux.md",
+    "HTB ACADEMY/Linux Fundamentals/Find Files and Directories.md",
+    "HTB ACADEMY/Linux Fundamentals/Filter content.md",
+    "HTB ACADEMY/Linux Fundamentals/Custom BASH commands.md",
+    "HTB ACADEMY/Linux Fundamentals/Cheat Sheet.md",
+    "HTB ACADEMY/Linux Fundamentals/All SSH infos.md",
+    "HTB ACADEMY/CTF/SMB.md",
+    "HTB ACADEMY/CTF/Service scanning.md",
+    "HTB ACADEMY/CTF/Ports.md",
+    "HTB ACADEMY/CTF/FTP.md",
+    "HTB ACADEMY/CTF/CTF.md",
+    "HTB ACADEMY/All Knowledge Basics/BASICS.md",
+    "HTB ACADEMY/All Knowledge Basics/2 - Common words.md",
+    "HTB ACADEMY/All Knowledge Basics/1 - General overview.md",
+    "Untitled.md",
+    "HTB ACADEMY/Linux Fundamentals/Copy, move, create commands.md",
+    "HTB ACADEMY/Linux Fundamentals/LINUX FUNDAMENTALS.md",
+    "HTB ACADEMY/HTB ACADEMY.md",
+    "HTB ACADEMY/Nmap/NMAP.md",
+    "HTB ACADEMY/Nmap/sdfqsd.md",
+    "HTB ACADEMY/Nmap",
+    "HTB ACADEMY/Linux Fundamentals/Working with web services.md",
+    "HTB ACADEMY/Linux Fundamentals/Containerization.md",
+    "HTB ACADEMY/Network fundamentals/Network.md",
+    "HTB ACADEMY",
+    "HTB ACADEMY/All Knowledge Basics",
+    "HTB ACADEMY/Web Application",
+    "HTB ACADEMY/Web Request/HTTP Headers",
+    "IMG/Pasted image 20240729051703.png",
+    "IMG/Pasted image 20240729051645.png",
+    "IMG/Pasted image 20240729051429.png",
+    "IMG/Pasted image 20240729050817.png",
+    "IMG/Pasted image 20240729044644.png",
+    "IMG/Pasted image 20240729045754.png",
+    "HTB ACADEMY/Web Request",
+    "Network fundamentals/Untitled",
+    "HTB ACADEMY/Network fundamentals/Common Ports",
+    "IMG/Pasted image 20240726032723.png",
+    "IMG/Pasted image 20240726063902.png",
+    "IMG/Pasted image 20240725202256.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "IMG/Pasted image 20240725202124.png",
+    "HTB ACADEMY/Network fundamentals/Networking",
+    "HTB ACADEMY/Network fundamentals/Network Topologies"
+  ]
+}
